@@ -1,0 +1,24 @@
+# Dependensi dan hasil build (dibuat ulang otomatis)
+node_modules
+dist
+
+# Log dan file sistem
+*.log
+.DS_Store
+Thumbs.db
+
+# Rahasia, kalau suatu saat dipakai
+.env
+.env.*
+
+# Proyek QGIS dan file sementara
+*.qgz
+*.qgs
+*.qgz~
+*.qgs~
+*.aux.xml
+
+node_modules
+dist
+project/
+shp/
